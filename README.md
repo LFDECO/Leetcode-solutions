@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LFDECO/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/LFDECO/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/LFDECO/Leetcode-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/LFDECO/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LFDECO/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/LFDECO/Leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/LFDECO/Leetcode-solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/LFDECO/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/LFDECO/Leetcode-solutions/tree/master/0046-permutations) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/LFDECO/Leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
