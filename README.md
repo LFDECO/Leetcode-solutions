@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LFDECO/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/LFDECO/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/LFDECO/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/LFDECO/Leetcode-solutions/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LFDECO/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/LFDECO/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LFDECO/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/LFDECO/Leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
