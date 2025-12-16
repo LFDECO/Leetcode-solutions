@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/LFDECO/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/LFDECO/Leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/LFDECO/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LFDECO/Leetcode-solutions/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
