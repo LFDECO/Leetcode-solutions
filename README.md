@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/LFDECO/Leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/LFDECO/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/LFDECO/Leetcode-solutions/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LFDECO/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/LFDECO/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/LFDECO/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/LFDECO/Leetcode-solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
