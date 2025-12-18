@@ -31,12 +31,6 @@ struct ListNode* rotateRight(struct ListNode* head, int k) {
        temp1=temp1->next;
     }
     head=temp1->next;
-    while(temp2!=NULL){
-        if (temp2->next==head){
-            temp2->next=NULL;
-            break;
-        }
-        temp2=temp2->next;
-    }
+    temp1->next=NULL;
     return head;
 }
