@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/LFDECO/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/LFDECO/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/LFDECO/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/LFDECO/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LFDECO/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LFDECO/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/LFDECO/Leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
