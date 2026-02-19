@@ -9,7 +9,7 @@ class Solution:
                 last=intervals[i]
                 i+=1
             else:
-                intervals.remove(intervals[i])
                 count+=1
+                i+=1
         return count
 
