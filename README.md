@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/LFDECO/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/LFDECO/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/LFDECO/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LFDECO/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LFDECO/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/LFDECO/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## String Matching
 | Problem Name | Difficulty |
