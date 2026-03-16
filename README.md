@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/LFDECO/Leetcode-solutions/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/LFDECO/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/LFDECO/Leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
+| [0585-investments-in-2016](https://github.com/LFDECO/Leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/LFDECO/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Greedy
 | Problem Name | Difficulty |
