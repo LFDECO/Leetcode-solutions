@@ -4,7 +4,7 @@ class Solution:
         map2 = {}
         result = []
         window_size = len(p)
-        if len(p)>len(s):
+        if len(p) > len(s):
             return []
         for i in p:
             if i in map1:
