@@ -4,7 +4,7 @@ class Solution:
         map1={}
         map2={}
         result=[]
-        if len(p)>len(p):
+        if len(p)>len(s):
             return []
         for i in p:
             if i not in map1:
