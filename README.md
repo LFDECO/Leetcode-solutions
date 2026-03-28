@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/LFDECO/Leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/LFDECO/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/LFDECO/Leetcode-solutions/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/LFDECO/Leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/LFDECO/Leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/LFDECO/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/LFDECO/Leetcode-solutions/tree/master/0262-trips-and-users) |
