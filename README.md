@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0682-baseball-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/LFDECO/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/LFDECO/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/LFDECO/Leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0682-baseball-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/LFDECO/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
