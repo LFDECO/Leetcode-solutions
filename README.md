@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/LFDECO/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LFDECO/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/LFDECO/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0264-ugly-number-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/LFDECO/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/LFDECO/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/LFDECO/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/LFDECO/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LFDECO/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LFDECO/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/LFDECO/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/LFDECO/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Simulation
