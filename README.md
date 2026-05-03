@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/LFDECO/Leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/LFDECO/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/LFDECO/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/LFDECO/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/LFDECO/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0412-fizz-buzz](https://github.com/LFDECO/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0709-to-lower-case](https://github.com/LFDECO/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1143-longest-common-subsequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/LFDECO/Leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/LFDECO/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
