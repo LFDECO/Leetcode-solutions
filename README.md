@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LFDECO/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/LFDECO/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/LFDECO/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/LFDECO/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/LFDECO/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/LFDECO/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/LFDECO/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/LFDECO/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LFDECO/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/LFDECO/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
