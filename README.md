@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LFDECO/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/LFDECO/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/LFDECO/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/LFDECO/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/LFDECO/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LFDECO/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -489,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LFDECO/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/LFDECO/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
