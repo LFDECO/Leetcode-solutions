@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/LFDECO/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/LFDECO/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LFDECO/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
