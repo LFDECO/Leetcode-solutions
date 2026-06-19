@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/LFDECO/Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/LFDECO/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/LFDECO/Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/LFDECO/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
