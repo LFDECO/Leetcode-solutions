@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LFDECO/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2235-add-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
