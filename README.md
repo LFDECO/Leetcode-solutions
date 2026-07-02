@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/LFDECO/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/LFDECO/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/LFDECO/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/LFDECO/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/LFDECO/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LFDECO/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/LFDECO/Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/LFDECO/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LFDECO/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
