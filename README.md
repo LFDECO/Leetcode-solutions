@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LFDECO/Leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LFDECO/Leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1046-last-stone-weight](https://github.com/LFDECO/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,4 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/LFDECO/Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
