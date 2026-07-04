@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LFDECO/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LFDECO/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LFDECO/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LFDECO/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
