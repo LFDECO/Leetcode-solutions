@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/LFDECO/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2235-add-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LFDECO/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LFDECO/Leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LFDECO/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/LFDECO/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -606,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
