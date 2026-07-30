@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LFDECO/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2235-add-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LFDECO/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LFDECO/Leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/LFDECO/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
