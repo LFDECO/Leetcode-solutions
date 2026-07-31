@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/LFDECO/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0264-ugly-number-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/LFDECO/Leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/LFDECO/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -624,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
