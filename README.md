@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/LFDECO/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/LFDECO/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/LFDECO/Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/LFDECO/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LFDECO/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [2235-add-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/LFDECO/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0292-nim-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -630,4 +634,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
