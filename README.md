@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/LFDECO/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/LFDECO/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/LFDECO/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/LFDECO/Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/LFDECO/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LFDECO/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LFDECO/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/LFDECO/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LFDECO/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LFDECO/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/LFDECO/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -687,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
