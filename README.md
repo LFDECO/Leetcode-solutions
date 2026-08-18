@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/LFDECO/Leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LFDECO/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/LFDECO/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/LFDECO/Leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0997-find-the-town-judge](https://github.com/LFDECO/Leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LFDECO/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/LFDECO/Leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0997-find-the-town-judge](https://github.com/LFDECO/Leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/LFDECO/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LFDECO/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
