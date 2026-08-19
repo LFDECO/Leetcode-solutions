@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/LFDECO/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/LFDECO/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/LFDECO/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/LFDECO/Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/LFDECO/Leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LFDECO/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/LFDECO/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/LFDECO/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/LFDECO/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/LFDECO/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/LFDECO/Leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/LFDECO/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/LFDECO/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
