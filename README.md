@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/LFDECO/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2235-add-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/LFDECO/Leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LFDECO/Leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/LFDECO/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/LFDECO/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1927-sum-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LFDECO/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LFDECO/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LFDECO/Leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/LFDECO/Leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/LFDECO/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/LFDECO/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1927-sum-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/LFDECO/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
