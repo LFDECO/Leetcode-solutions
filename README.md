@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LFDECO/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LFDECO/Leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LFDECO/Leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LFDECO/Leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
