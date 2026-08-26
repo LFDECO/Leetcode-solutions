@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LFDECO/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/LFDECO/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/LFDECO/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0169-majority-element](https://github.com/LFDECO/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LFDECO/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/LFDECO/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/LFDECO/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/LFDECO/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/LFDECO/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/LFDECO/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/LFDECO/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/LFDECO/Leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0997-find-the-town-judge](https://github.com/LFDECO/Leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
