@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/LFDECO/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/LFDECO/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/LFDECO/Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0860-lemonade-change](https://github.com/LFDECO/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LFDECO/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/LFDECO/Leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/LFDECO/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0860-lemonade-change](https://github.com/LFDECO/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/LFDECO/Leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/LFDECO/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/LFDECO/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
