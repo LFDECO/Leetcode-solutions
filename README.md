@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/LFDECO/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/LFDECO/Leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/LFDECO/Leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/LFDECO/Leetcode-solutions/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/LFDECO/Leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
