@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/LFDECO/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LFDECO/Leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/LFDECO/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/LFDECO/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LFDECO/Leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LFDECO/Leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/LFDECO/Leetcode-solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/LFDECO/Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LFDECO/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LFDECO/Leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/LFDECO/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LFDECO/Leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/LFDECO/Leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Topological Sort
