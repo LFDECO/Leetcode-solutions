@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/LFDECO/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/LFDECO/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/LFDECO/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/LFDECO/Leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/LFDECO/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/LFDECO/Leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/LFDECO/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LFDECO/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/LFDECO/Leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/LFDECO/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/LFDECO/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/LFDECO/Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -826,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -833,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/LFDECO/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
