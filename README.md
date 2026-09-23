@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0601-human-traffic-of-stadium](https://github.com/LFDECO/Leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/LFDECO/Leetcode-solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0607-sales-person](https://github.com/LFDECO/Leetcode-solutions/tree/main/0607-sales-person/) | Easy |
+| [0610-triangle-judgement](https://github.com/LFDECO/Leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/LFDECO/Leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/LFDECO/Leetcode-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/LFDECO/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
