@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LFDECO/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/LFDECO/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/LFDECO/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/LFDECO/Leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LFDECO/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/LFDECO/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/LFDECO/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/LFDECO/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/LFDECO/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/LFDECO/Leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
