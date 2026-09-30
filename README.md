@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LFDECO/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/LFDECO/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/LFDECO/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/LFDECO/Leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/LFDECO/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/LFDECO/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/LFDECO/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LFDECO/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -914,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/LFDECO/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/LFDECO/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
