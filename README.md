@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/LFDECO/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0496-next-greater-element-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LFDECO/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/LFDECO/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/LFDECO/Leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/LFDECO/Leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/LFDECO/Leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/LFDECO/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/LFDECO/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/LFDECO/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/LFDECO/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/LFDECO/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Tree
