@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LFDECO/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LFDECO/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/LFDECO/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LFDECO/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/LFDECO/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -842,11 +844,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LFDECO/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LFDECO/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LFDECO/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LFDECO/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/LFDECO/Leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
